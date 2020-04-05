@@ -1,8 +1,8 @@
 {
   "hosting": {
-    "site": "digipromo",
+ "site": "digipromo",
     "public": "public",
-    "cleanUrls": true,
+"cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
